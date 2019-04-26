@@ -1,7 +1,7 @@
 {
   "name": "liri-bot",
   "version": "1.0.0",
-  "description": "bot that finds sptify songs, movie info and conserts in your area",
+  "description": "Bot that finds spotify songs, movie info and concerts in your area",
   "main": "liri.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
