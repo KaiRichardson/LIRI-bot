@@ -1,0 +1,30 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "bot that finds sptify songs, movie info and conserts in your area",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaiRichardson/LIRI-bot.git"
+  },
+  "keywords": [
+    "music",
+    "movies",
+    "bands"
+  ],
+  "author": "Kai Richardson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaiRichardson/LIRI-bot/issues"
+  },
+  "homepage": "https://github.com/KaiRichardson/LIRI-bot#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^7.0.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  }
+}
