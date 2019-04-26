@@ -2,7 +2,7 @@
   "name": "liri-bot",
   "version": "1.0.0",
   "description": "bot that finds sptify songs, movie info and conserts in your area",
-  "main": "app.js",
+  "main": "liri.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
