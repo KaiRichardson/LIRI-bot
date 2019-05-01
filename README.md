@@ -64,6 +64,6 @@ for the movie.
 
 ## do-what-it-says
 
-The `do-what-it-says` function will take in information from a txt document labeled `random.txt` in the form of *`function-to-call`*, **`”user input”`**. Outputting whatever information is called for in the desired function. 
+The `do-what-it-says` function will take in information from a txt document labeled `random.txt` in the form of *`function-to-call`*`,`**`”user input”`**. Outputting whatever information is called for in the desired function. 
 
 ![gif of concert-this](./gifs/do-what-it-says.gif)
