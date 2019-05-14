@@ -1,17 +1,30 @@
 {
-  "name": "starwars-express",
+  "name": "liri-bot",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
-  "dependencies": {
-    "express": "^4.16.3"
-  },
-  "devDependencies": {},
+  "description": "Bot that finds spotify songs, movie info and concerts in your area",
+  "main": "liri.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "watch": "nodemon server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaiRichardson/LIRI-bot.git"
+  },
+  "keywords": [
+    "music",
+    "movies",
+    "bands"
+  ],
+  "author": "Kai Richardson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaiRichardson/LIRI-bot/issues"
+  },
+  "homepage": "https://github.com/KaiRichardson/LIRI-bot#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^7.0.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  }
 }
